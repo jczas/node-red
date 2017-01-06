@@ -9,10 +9,3 @@
 .tern-project
 *.backup
 *_cred*
-coverage
-credentials.json
-flows*.json
-nodes/node-red-nodes/
-public
-locales/zz-ZZ
-nodes/core/locales/zz-ZZ
