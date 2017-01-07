@@ -9,3 +9,4 @@
 .tern-project
 *.backup
 *_cred*
+public
